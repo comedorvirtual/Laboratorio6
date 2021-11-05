@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1024769434395",
+    "project_id": "historial-medico-46978",
+    "storage_bucket": "historial-medico-46978.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024769434395:android:181e721a3ee2650d3b29be",
+        "android_client_info": {
+          "package_name": "com.example.trabajo6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024769434395-ov7vapv87ulrled25051ebus3ddp7v53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Q2udy7Gwyqr0r5FzJkDFThVQUzpwg2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024769434395-ov7vapv87ulrled25051ebus3ddp7v53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
